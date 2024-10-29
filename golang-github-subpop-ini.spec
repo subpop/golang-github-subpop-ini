@@ -13,8 +13,6 @@ Version:                0.1.5
 
 %gometa -L -f
 
-%global goaltipaths     git.sr.ht/~spc/go-ini
-
 %global common_description %{expand:
 Go package that encodes and decodes INI-files.}
 
